@@ -1,0 +1,3 @@
+#!/Users/Jo/Documents/projects/voice_app/voiceapp-env/bin/python3
+from numba.pycc import main
+main()
